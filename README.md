@@ -10,7 +10,7 @@ Based on your dataset (5000 students, with fields like study hours, attendance, 
 # Problem Statement
 Student academic performance is influenced by multiple factors — study habits, attendance, family background, access to resources, and participation in extracurricular activities. Educational institutions often lack a data-driven way to identify which factors most strongly affect a student's performance and to predict at-risk students early, making timely intervention difficult. There is a need to analyze student data to uncover performance patterns and build a system that can predict outcomes (Pass/Fail, Performance Level) based on measurable inputs.
 
-Objective
+# Objective
 To analyze the relationship between student attributes (study hours, attendance, parental education, internet access, extracurricular activities) and academic performance (Math, Science, English, Final Percentage).
 To identify the key factors that most significantly influence whether a student passes or fails.
 To build a predictive model (classification/regression) that can estimate a student's Final Percentage, Performance Level, or Pass/Fail status using the available features.
