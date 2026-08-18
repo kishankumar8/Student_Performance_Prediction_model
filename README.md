@@ -21,7 +21,7 @@ Approach — Data Analysis + Machine Learning pipeline:
 Data Cleaning & Preprocessing – Handle missing values, encode categorical columns (Gender, Parental_Education, Internet_Access, Extracurricular_Activities) using label/one-hot encoding.
 Exploratory Data Analysis (EDA) – Visualize correlations between Study_Hours, Attendance, Parental_Education, etc., vs. Final_Percentage/Pass_Fail (using bar charts, heatmaps, boxplots).
 Feature Engineering – Derive features like average subject score, study-hour buckets, attendance bands.
-Model Building:
+# Model Building:
 Classification model (Logistic Regression / Decision Tree / Random Forest) to predict Pass/Fail or Performance_Level.
 Regression model (Linear Regression / Random Forest Regressor) to predict Final_Percentage.
 Model Evaluation – Accuracy, Precision, Recall, F1-score (classification); RMSE, R² (regression).
