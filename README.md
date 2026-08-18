@@ -22,6 +22,7 @@ Approach — Data Analysis + Machine Learning pipeline:
 Data Cleaning & Preprocessing – Handle missing values, encode categorical columns (Gender, Parental_Education, Internet_Access, Extracurricular_Activities) using label/one-hot encoding.
 Exploratory Data Analysis (EDA) – Visualize correlations between Study_Hours, Attendance, Parental_Education, etc., vs. Final_Percentage/Pass_Fail (using bar charts, heatmaps, boxplots).
 Feature Engineering – Derive features like average subject score, study-hour buckets, attendance bands.
+
 # Model Building:
 Classification model (Logistic Regression / Decision Tree / Random Forest) to predict Pass/Fail or Performance_Level.
 Regression model (Linear Regression / Random Forest Regressor) to predict Final_Percentage.
@@ -29,4 +30,3 @@ Model Evaluation – Accuracy, Precision, Recall, F1-score (classification); RMS
 Insight Generation – Identify top predictors (likely: Study_Hours_Per_Day, Attendance_Percentage) and generate a dashboard/report so educators can flag at-risk students early and recommend interventions (e.g., extra tutoring, attendance monitoring).
 Outcome: A working model + visual report that predicts student performance and highlights the most impactful factors, enabling proactive academic support.
 
-अगर आप चाहें तो मैं इस डेटासेट पर actua
