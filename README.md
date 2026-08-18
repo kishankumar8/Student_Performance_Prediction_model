@@ -9,6 +9,7 @@ In this repo I Evaluate  model that gives the prediction (using ANN ) of  Studen
 Based on your dataset (5000 students, with fields like study hours, attendance, parental education, internet access, extracurricular activities, subject-wise marks, final percentage, performance level, and pass/fail), here's a ready-to-use problem statement, objective, and 
 
 # Problem Statement
+
 Student academic performance is influenced by multiple factors — study habits, attendance, family background, access to resources, and participation in extracurricular activities. Educational institutions often lack a data-driven way to identify which factors most strongly affect a student's performance and to predict at-risk students early, making timely intervention difficult. There is a need to analyze student data to uncover performance patterns and build a system that can predict outcomes (Pass/Fail, Performance Level) based on measurable inputs.
 
 # Objective
