@@ -38,5 +38,6 @@ Regression model (Linear Regression / Random Forest Regressor) to predict Final_
 Model Evaluation – Accuracy, Precision, Recall, F1-score (classification); RMSE, R² (regression).
 
 Insight Generation – Identify top predictors (likely: Study_Hours_Per_Day, Attendance_Percentage) and generate a dashboard/report so educators can flag at-risk students early and recommend interventions (e.g., extra tutoring, attendance monitoring).
+
 Outcome: A working model + visual report that predicts student performance and highlights the most impactful factors, enabling proactive academic support.
 
