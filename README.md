@@ -6,7 +6,7 @@ In this repo I Evaluate  model that gives the prediction (using ANN ) of  Studen
 
 # Student Performance Prediction using ANN
 
-Based on your dataset (5000 students, with fields like study hours, attendance, parental education, internet access, extracurricular activities, subject-wise marks, final percentage, performance level, and pass/fail), here's a ready-to-use problem statement, objective, and 
+Based on your dataset (5000 students, with fields like study hours, attendance, parental education, internet access, extracurricular activ
 
 # Problem Statement
 
